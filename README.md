@@ -18,14 +18,14 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLEGEND-Guneet&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
-
-<div align="center">
   <h2>✍️ Random Dev Quote</h2>
+<div align="center">
+
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
-
-<div align="center">
   <h2>🔝 Top Contributed Repo</h2>
+<div align="center">
+
   <img src="https://github-contributor-stats.vercel.app/api?username=TheLEGEND-Guneet&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </div>
 
