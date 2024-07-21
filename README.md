@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelegend-guneet&label=Profile%20views&color=0e75b6&style=flat" alt="thelegend-guneet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelegend-guneet" alt="thelegend-guneet" /></a> </p>
-
 - 📫 How to reach me **guneet22190@iiitd.ac.in**
 
 <h3 align="left">Connect with me:</h3>
