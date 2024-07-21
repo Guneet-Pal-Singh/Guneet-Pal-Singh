@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Guneet Pal Singh</h1>
 <h3 align="centre">An aspiring Computer Science student from Indraprastha Institute of Information Technology - Delhi (IIIT-D). Passionate about coding, problem-solving, and e-sports, striving to excel in software development and finance technology.</h3>
-<p>- 📫 How to reach me <strong>**guneet22190@iiitd.ac.in**</strong></p>
+<p>- 📫 How to reach me <strong>guneet22190@iiitd.ac.in</strong></p>
 
 
 ## 🌐 Socials:
