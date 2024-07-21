@@ -1,5 +1,5 @@
-# 💫 About Me:
-An aspiring Computer Science student from Indraprastha Institute of Information Technology - Delhi (IIIT-D).Passionate about coding, problem-solving, and e-sports, striving to excel in software development and finance technology.<br><br>📫 How to reach me: guneet22190@iiitd.ac.in
+<h1 align="center">Hi 👋, I'm Guneet Pal Singh</h1>
+<h3 align="center">An aspiring Computer Science student from Indraprastha Institute of Information Technology - Delhi (IIIT-D).Passionate about coding, problem-solving, and e-sports, striving to excel in software development and finance technology.</h3>
 
 
 ## 🌐 Socials:
