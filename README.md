@@ -1,5 +1,5 @@
 
-<img align="CENTER" alt="Coding" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"> 
+<img align="center" alt="Coding" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"> 
 <h1 align="center">Hi 👋, I'm Guneet Pal Singh</h1>
 <h3 align="center">An aspiring Computer Science student from Indraprastha Institute of Information Technology - Delhi (IIIT-D).Passionate about coding, problem-solving, and e-sports, striving to excel in software development and finance technology.</h3>
 
