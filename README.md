@@ -2,8 +2,8 @@
   <img alt="Coding" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"> 
 </div>
 <h1 align="center">Hi 👋, I'm Guneet Pal Singh</h1>
-<h3 align="center">An aspiring Computer Science student from Indraprastha Institute of Information Technology - Delhi (IIIT-D). Passionate about coding, problem-solving, and e-sports, striving to excel in software development and finance technology.</h3>
-
+<h3 align="centre">An aspiring Computer Science student from Indraprastha Institute of Information Technology - Delhi (IIIT-D). Passionate about coding, problem-solving, and e-sports, striving to excel in software development and finance technology.</h3>
+- 📫 How to reach me **guneet22190@iiitd.ac.in**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singh.on.fire) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guneet-pal-singh-a9180a258/)
 
