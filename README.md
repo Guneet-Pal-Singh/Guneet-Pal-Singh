@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Guneet Pal Singh</h1>
 <h3 align="center">An aspiring Computer Science student from Indraprastha Institute of Information Technology - Delhi (IIIT-D).Passionate about coding, problem-solving, and e-sports, striving to excel in software development and finance technology.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif"> -->
