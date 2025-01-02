@@ -15,10 +15,10 @@
 
   <h2>📊 GitHub Stats:</h2>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLEGEND-Guneet&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLEGEND-Guneet&theme=dark&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guneet-Pal-Singh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guneet-Pal-Singh&theme=dark&hide_border=false" alt="GitHub Streak">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLEGEND-Guneet&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guneet-Pal-Singh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
   <h2>✍️ Random Dev Quote</h2>
 <div align="center">
@@ -28,11 +28,11 @@
   <h2>🔝 Top Contributed Repo</h2>
 <div align="center">
 
-  <img src="https://github-contributor-stats.vercel.app/api?username=TheLEGEND-Guneet&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Guneet-Pal-Singh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TheLEGEND-Guneet&icon=0&color=0" alt="Visit Count">
+  <img src="https://visitcount.itsvg.in/api?id=Guneet-Pal-Singh&icon=0&color=0" alt="Visit Count">
 </div>
 
 ---
